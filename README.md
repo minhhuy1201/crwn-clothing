@@ -1,1 +1,1 @@
-# this project is just to learn reactjs
+# This project is just for me to learn ReactJs
